@@ -1,0 +1,60 @@
+Welcome to the Ticket Booking System
+
+ Do you want to continue?
+  1.Yes         2. No       
+
+ Enter Your Choice: 1
+
+ You can Enter The System.
+******************************
+Please fill Up Your Personal Detail.
+ Enter Your First Name: andy
+ Enter Your Age: 20
+ You are above 18.
+ Enter Your Gender: male
+ Enter your destination:selangor
+
+ Do you want to proceed?
+   Yes              No
+Selection: Yes
+ Your Personal Detail Data Already Save in our System.
+--------------------------------------------------
+ Please Fill Up Your Ticket Detail.
+ You can refer here before make some choice.
+****************************************
+*Ticket Price/Ticket Type/Trip         *
+****************************************
+* Adult = RM 55.00 per person          *
+* Child = RM 32.00 per person          *
+****************************************
+* Economic = normal price              *
+* VIP      = RM 100                    *
+****************************************
+* 1. One Way                           *
+* 2. Round Trip - 15 % discounts       *
+****************************************
+
+Enter Your Trip:One way
+
+Please Enter Your Departure Date: 
+12/12/22
+How many ny passenger you'd like to bring?
+
+Adult: 2
+Child: 3
+
+Please select your ticket type :
+0.Economy       1. VIP 
+Selection: 1
+
+     The Total Payment is: RM 306.0
+--------------------------------------------------
+            HERE IS YOUR TICKET        
+****************************************
+* FIRST NAME: andy
+* AGE       : 20
+* GENDER    : m
+* DESTINATION:
+****************************************
+**************THANK, YOU****************
+          Thank you for Entering our System. 
